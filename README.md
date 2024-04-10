@@ -1,5 +1,9 @@
 # Web Assembly for RAGE:MP client
 
+<p align="center">
+    <img src="https://i.imgur.com/3AedUiI.png" width="350" />
+</p>
+
 ### What is this ?
 
 This is a boilerplate for writing wasm with rust for RAGE:MP client
